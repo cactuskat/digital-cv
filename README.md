@@ -1,6 +1,23 @@
-## Welcome to Karina Castillo's CV
+# Welcome to Karina Castillo's CV
 
-Email/LinkedIn/Twitter/GitHub
+[Email](mailto:k.annabel0@gmail.com)/LinkedIn/Twitter/GitHub
+
+## Core Qualifications
+
+## Work Experience
+
+
+## 💬 Languages
+
+**English:** Native
+
+**Spanish:** Intermediate
+
+## 👩🏼‍🎓 Education
+
+## Memberships
+
+
 
 You can use the [editor on GitHub](https://github.com/cactuskat/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
